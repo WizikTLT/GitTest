@@ -6,6 +6,7 @@ public class HelloWorld {
         System.out.println("Hello World 2");
         System.out.println("FIXED BY REWIEV");
         System.out.println("FIXED BY REWIEV2");
+        System.out.println("FIXED BY REWIEV3");
         System.out.println("Hello before Squish");
         System.out.println("Hello after Squish");
     }
